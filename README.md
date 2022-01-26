@@ -2,7 +2,7 @@
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-## I'm a 𝘼𝙗𝙤𝙪𝙩 𝙮𝙤𝙪
+## I'm a Hooman
 
 - 💬 Ask me about ......shell, python
 - 📫 Reach me at trjyothish0@gmail.com
