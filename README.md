@@ -1,8 +1,8 @@
-### Hi there, I'm Mr. BlueSky 👋
+
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-# 👋 Hello, I’m Jyothish T R!
+# 👋 Hello, I’m Jyothish T R aka MrBlueSky!
 
 🔭 **About Me:**
 I’m a passionate Computer Science Engineering student from SCMS School of Engineering and Technology, Kerala, India. My interests revolve around Artificial Intelligence, Machine Learning, Robotics, and Networking. I love building and exploring new technologies that can have a positive impact.
