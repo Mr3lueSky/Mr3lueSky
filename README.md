@@ -12,7 +12,7 @@ I’m a passionate Computer Science Engineering student from SCMS School of Engi
 * 📧 Email: [trjyothish0@gmail.com](mailto:trjyothish0@gmail.com)
 * 💼 LinkedIn: [jyothishtr2001](https://linkedin.com/in/jyothishtr2001)
 * 🐦 Twitter: [@Mr3lue5ky](https://twitter.com/Mr3lue5ky)
-* 🌐 GitHub: [Mr3lueSky](https://github.com/Mr3lueSky)
+* 🌐 leetcode: [Mr3lueSky](https://leetcode.com/u/Mr3lueSky/)
 
 ## 🚀 Skills:
 
