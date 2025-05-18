@@ -17,15 +17,15 @@ I’m a passionate Computer Science Engineering student from SCMS School of Engi
 ## 🚀 Skills:
 
 * **Programming Languages:** Python, C, Embedded C
-* **AI & Machine Learning:** Deep Learning, Computer Vision
 * **Networking:** TCP/IP, Computer Networking
 * **Robotics:** Object Detection, Obstacle Avoidance
 
 ## 🌱 Currently Learning:
 
 * Blockchain (Solidity)
-* Data Science (Python)
-* Reinforcement Learning
+* Python
+* DSA
+* Web development
 
 ## 💡 Experience:
 
@@ -34,7 +34,7 @@ I’m a passionate Computer Science Engineering student from SCMS School of Engi
   * Organized and managed coding events to foster a tech culture.
 * **Student Interest Group AI Lead, IEEE CS Society Kerala Section (Feb 2024 – Feb 2025)**
 
-  * Conducted events to introduce AI and its potential uses to students.
+  * Helped the Kerala Section team in ideating and conducted state level events.
 
 ## 💼 Projects:
 
